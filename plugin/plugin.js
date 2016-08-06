@@ -1,7 +1,7 @@
 /************* Constants *************/
 
 /* Var : string APIKEY
-*  Replace by your own API Key
+*plugin_simpleweather/plugin/plugin.js
 */
 var APIKEY = "";
 
